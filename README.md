@@ -1,5 +1,6 @@
 # ReOcean
 Code for MAE444 Senior Thesis Project
+
 Please ignore bad coding practices
 
 Video for project can be found: https://youtu.be/7Xo0wfwKcSs
